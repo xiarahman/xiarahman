@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @xiarahman
+- 👀 I’m interested in ReactJs, Node and Python
+- 🌱 I’m currently learning NodeJs
+- 📫 How to reach me LinkedIn in/xiarahman
